@@ -1,9 +1,10 @@
 {
-  "ADMOB_BANNER": "ca-app-pub-3940256099942544/2934735716",
-  "ADMOB_INTERSTITAL": "ca-app-pub-3940256099942544/4411468910",
-  "ADMOB_VIDEO": "ca-app-pub-3940256099942544/1712485313",
-  "UNITY_ID": "3392301",
-  "NUMBER_CLICKED_BUTTONS": 15,
-  "RATE_APP": false,
-  "ADV_ALERT": null
+  "admobBanner": "ca-app-pub-3940256099942544/2934735716",
+  "admobInterstital": "ca-app-pub-3940256099942544/4411468910",
+  "admobReward": "ca-app-pub-3940256099942544/1712485313",
+  "admobReward": "ca-app-pub-3940256099942544/3986624511"
+  "unityId": "3392301",
+  "totalMaxClicks": 5,
+  "allowRateApp": false,
+  "adv": null
 }
