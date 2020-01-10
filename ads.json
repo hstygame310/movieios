@@ -1,0 +1,15 @@
+{
+  "admobBanner": "ca-app-pub-6567326132643016/2201096041",
+  "admobInterstital": "ca-app-pub-6567326132643016/9144110044",
+  "admobReward": "ca-app-pub-6567326132643016/7261851039",
+  "unityId": "3415402",
+  "totalMaxClicks": 3,
+  "allowRateApp": true,
+  "advAlert": {
+      "title": "HOT",
+      "message": "Best Crazy Ringtones 2020 & 4K Wallpapers",
+      "titleButtonOk": "Install now 🙏🙏🙏",
+      "titleButtonCancel":"No 😢",
+      "urlRedirect": "https://itunes.apple.com/app/id1489323062"
+  }
+}
